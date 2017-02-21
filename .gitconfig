@@ -1,0 +1,7 @@
+[user]
+	email = yliu@sonicwall.com
+	name = Tim Liu
+[core]
+	editor = vim
+[push]
+	default = matching
