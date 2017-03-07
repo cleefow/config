@@ -18,3 +18,5 @@ set t_Co=256
 set cursorline
 hi CursorLine cterm=NONE ctermbg=238
 
+set tags=./tags;,tags
+
